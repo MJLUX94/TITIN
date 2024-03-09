@@ -6,3 +6,5 @@
 * `locality` string - Locality.
 * `state` string - State or province.
 * `country` string - Country or region.
+$ ls -al ~/.ssh
+# Lists the files in your .ssh directory, if they exist
